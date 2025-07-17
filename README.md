@@ -1,17 +1,22 @@
 # Tubular photobioreactor system for tropical countries
 
+## Project description
 
-## Final Design
-<img src="https://github.com/user-attachments/assets/8696d305-e133-4230-8764-52f0e45645f4" width="500" alt="Screenshot (10)">
-<img src="https://github.com/user-attachments/assets/24c9b547-ea7a-4fa5-b2f0-82be1ba6cc97" width="500" alt="Screenshot (9)">
+This project focuses on the design and development of a tubular photobioreactor system for the optimized cultivation of Haematococcus pluvialis, a microalgae species known for its high astaxanthin content. The system is engineered to enhance microalgal biomass productivity through controlled environmental conditions that support efficient photosynthesis, CO₂ absorption, and oxygen release.
 
+Key components of the reactor include a transparent tubular structure for maximum light exposure, an aeration and agitation system for gas exchange and nutrient mixing, and a sensor-integrated control unit for real-time monitoring of pH, temperature, and other vital parameters. Through systematic design and testing, the project aims to achieve high biomass yield, energy efficiency, and scalability for industrial applications.
 
-
-
-
+The outcomes of this research contribute to sustainable biotechnology by promoting microalgae-based bioproducts and carbon capture technologies. The project also lays the groundwork for further innovations in photobioreactor design and bioengineering processes.
 
 
-## Current Status
+## 3d CAD model
 
-<img src="https://github.com/user-attachments/assets/53c6a9cd-50aa-4a9d-b356-d6fdb05e248d" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 41 AM">
-<img src="https://github.com/user-attachments/assets/d96ec183-541f-42a3-9a68-94d6e79a8e69" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 40 AM">
+<img src="https://github.com/user-attachments/assets/24c9b547-ea7a-4fa5-b2f0-82be1ba6cc97" width="700" alt="Screenshot (9)">
+
+
+
+## Tubular Photobioreactor
+
+<img src="https://github.com/user-attachments/assets/5d391b4d-bed5-4424-81b5-38d371e3fd91" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 41 AM">
+<img src="https://github.com/user-attachments/assets/1b6ff70f-4b0a-461a-87dd-7a582384b204" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 40 AM">
+<img src="https://github.com/user-attachments/assets/2391d098-c56c-4332-8357-57903242ab22" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 40 AM">
