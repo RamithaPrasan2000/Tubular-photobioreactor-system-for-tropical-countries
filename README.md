@@ -20,3 +20,7 @@ The outcomes of this research contribute to sustainable biotechnology by promoti
 <img src="https://github.com/user-attachments/assets/5d391b4d-bed5-4424-81b5-38d371e3fd91" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 41 AM">
 <img src="https://github.com/user-attachments/assets/1b6ff70f-4b0a-461a-87dd-7a582384b204" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 40 AM">
 <img src="https://github.com/user-attachments/assets/2391d098-c56c-4332-8357-57903242ab22" width="300" alt="WhatsApp Image 2025-03-05 at 10 23 40 AM">
+
+[SOP of Bioreactor.pdf](https://github.com/user-attachments/files/21277867/SOP.of.Bioreactor.pdf)
+https://www.youtube.com/shorts/ovwnAZtKifc
+
