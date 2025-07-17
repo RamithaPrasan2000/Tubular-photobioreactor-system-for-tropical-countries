@@ -9,7 +9,7 @@ Key components of the reactor include a transparent tubular structure for maximu
 The outcomes of this research contribute to sustainable biotechnology by promoting microalgae-based bioproducts and carbon capture technologies. The project also lays the groundwork for further innovations in photobioreactor design and bioengineering processes.
 
 
-## 3d CAD model
+## 3D CAD model
 
 <img src="https://github.com/user-attachments/assets/24c9b547-ea7a-4fa5-b2f0-82be1ba6cc97" width="700" alt="Screenshot (9)">
 
